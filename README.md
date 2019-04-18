@@ -10,7 +10,7 @@ city names.
 
 ### Framework Used 
 
-The application is written in the Javascript framework, React.js.
+The application is written in the Javascript using React.js.
 
 ### Running Locally
 
