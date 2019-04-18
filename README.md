@@ -24,7 +24,7 @@ Then using the command line enter the file you just created and ensure npm has b
 
 `npm -v`
 
-If you have install the dependecies with:
+If you have npm alread installed on your computer then go ahead and install the dependecies with:
 
 `npm install`
 
