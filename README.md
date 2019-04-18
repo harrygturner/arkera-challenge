@@ -14,8 +14,6 @@ The application is written in the Javascript framework, React.js.
 
 ### Running Locally
 
-#### Mac
-
 Go to this repository and click on the 'Clone or download' green button. Then copy the URL that appears (git@github.com:harrygturner/arkera-challenge.git). 
 
 Open up terminal and move yourself into a directory you wish this file to be located in and then issue the command below into the command line:
