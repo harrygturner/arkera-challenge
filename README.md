@@ -18,12 +18,18 @@ The application is written in the Javascript framework, React.js.
 
 Go to this repository and click on the 'Clone or download' green button. Then copy the URL that appears (git@github.com:harrygturner/arkera-challenge.git). 
 
-Open up terminal and move yourself into a directory you wish this file to be located in and then issue the command:
+Open up terminal and move yourself into a directory you wish this file to be located in and then issue the command below into the command line:
 
-git clone <URL you copied (git@github.com:harrygturner/arkera-challenge.git)>
+`git clone <URL you copied (git@github.com:harrygturner/arkera-challenge.git)>`
 
-into the command line. Then using the command line enter the file you just created. As you are using a Mac python has already been installed so to set up a local server follow these steps:
+Then using the command line enter the file you just created and ensure npm has been installed by entering:
 
-1.  Navigate to the public file inside the file you are currently in.
-2. Once there enter command $ ls and should appear a list of files. If one such file appears that is named 'index.html' your in the correct file.
-3. 
+`npm -v`
+
+If you have install the dependecies with:
+
+`npm install`
+
+Start the app with:
+
+`npm start`
